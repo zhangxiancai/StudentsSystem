@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<factorys>
+	<factory name="studentDao1" class="edu.wit.factory.StuDaoImpfactory"></factory>
+	<factory name="scoreDao1" class="edu.wit.factory.ScoDaoImpfactory"></factory>
+</factorys>
